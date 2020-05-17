@@ -1,0 +1,21 @@
+.black {
+  background-color: rgb(0, 0, 0);
+}
+
+.white {
+  background-color: rgb(255, 255, 255);
+}
+
+.err {
+  color: rgb(255, 0, 0);
+  list-style: none;
+}
+
+table, tr, td {
+  border: none;
+  border-collapse: collapse;
+}
+td {
+  width: 15px;
+  height: 15px;
+}
